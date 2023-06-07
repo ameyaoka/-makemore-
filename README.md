@@ -1,2 +1,2 @@
 # -makemore-
-implementing makemore by andrej karpathy 
+My notes wile implementing makemore by andrej karpathy 
