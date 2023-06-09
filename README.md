@@ -1,2 +1,2 @@
-# -makemore-
-My notes wile implementing makemore by andrej karpathy 
+# makemore
+My notes while implementing makemore by andrej karpathy 
